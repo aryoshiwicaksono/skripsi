@@ -1,0 +1,80 @@
+Time taken to retrieve: 5251.00 seconds
+2024-12-30 09:21:45 - Retriever evaluation for k in: [1, 3, 5, 10, 100, 1000]
+2024-12-30 09:21:45 - For evaluation, we ignore identical query and document ids (default), please explicitly set ``ignore_identical_ids=False`` to ignore this.
+2024-12-30 09:21:48 - 
+
+2024-12-30 09:21:48 - NDCG@1: 0.0527
+2024-12-30 09:21:48 - NDCG@3: 0.0819
+2024-12-30 09:21:48 - NDCG@5: 0.0953
+2024-12-30 09:21:48 - NDCG@10: 0.1127
+2024-12-30 09:21:48 - NDCG@100: 0.1563
+2024-12-30 09:21:48 - NDCG@1000: 0.1865
+2024-12-30 09:21:48 - 
+
+2024-12-30 09:21:48 - MAP@1: 0.0514
+2024-12-30 09:21:48 - MAP@3: 0.0737
+2024-12-30 09:21:48 - MAP@5: 0.0811
+2024-12-30 09:21:48 - MAP@10: 0.0882
+2024-12-30 09:21:48 - MAP@100: 0.0961
+2024-12-30 09:21:48 - MAP@1000: 0.0971
+2024-12-30 09:21:48 - 
+
+2024-12-30 09:21:48 - Recall@1: 0.0514
+2024-12-30 09:21:48 - Recall@3: 0.1035
+2024-12-30 09:21:48 - Recall@5: 0.1359
+2024-12-30 09:21:48 - Recall@10: 0.1891
+2024-12-30 09:21:48 - Recall@100: 0.4031
+2024-12-30 09:21:48 - Recall@1000: 0.6450
+2024-12-30 09:21:48 - 
+
+2024-12-30 09:21:48 - P@1: 0.0527
+2024-12-30 09:21:48 - P@3: 0.0358
+2024-12-30 09:21:48 - P@5: 0.0282
+2024-12-30 09:21:48 - P@10: 0.0197
+2024-12-30 09:21:48 - P@100: 0.0043
+2024-12-30 09:21:48 - P@1000: 0.0007
+2024-12-30 09:21:48 - 
+
+2024-12-30 09:21:50 - MRR@1: 0.0527
+2024-12-30 09:21:50 - MRR@3: 0.0760
+2024-12-30 09:21:50 - MRR@5: 0.0835
+2024-12-30 09:21:50 - MRR@10: 0.0907
+2024-12-30 09:21:50 - MRR@100: 0.0986
+2024-12-30 09:21:50 - MRR@1000: 0.0996
+2024-12-30 09:21:51 - 
+
+2024-12-30 09:21:53 - R_cap@1: 0.0527
+2024-12-30 09:21:53 - R_cap@3: 0.1035
+2024-12-30 09:21:53 - R_cap@5: 0.1359
+2024-12-30 09:21:53 - R_cap@10: 0.1891
+2024-12-30 09:21:53 - R_cap@100: 0.4031
+2024-12-30 09:21:53 - R_cap@1000: 0.6450
+2024-12-30 09:21:53 - 
+
+2024-12-30 09:21:55 - Hole@1: 0.9454
+2024-12-30 09:21:55 - Hole@3: 0.9622
+2024-12-30 09:21:55 - Hole@5: 0.9701
+2024-12-30 09:21:55 - Hole@10: 0.9788
+2024-12-30 09:21:55 - Hole@100: 0.9946
+2024-12-30 09:21:55 - Hole@1000: 0.9983
+2024-12-30 09:21:55 - Query : Jenis infeksi apa yang akan diobati?
+
+2024-12-30 09:21:55 - Rank 1: 6442724 [] - Pengobatan biasanya terdiri dari salah satu hal berikut, bergantung pada infeksinya: Antibiotik. Antibiotik, yang sering kali hanya dalam satu dosis, dapat menyembuhkan banyak infeksi bakteri dan parasit seksual, termasuk gonore, sifilis, klamidia dan trichomoniasis. Biasanya, Anda akan dirawat untuk gonore dan klamidia pada saat yang sama karena dua infeksi sering muncul bersama-sama.
+
+2024-12-30 09:21:55 - Rank 2: 5466712 [] - Pengobatan untuk Tipe Spesifik Penyakit yang Ditransmisikan secara Seksual dan Infeksi Seksual (STDs/STIS) Gonorrhea dan Chlamydia. Gonorrhea dan klamidia adalah PMS/STIS bakteri yang dapat diobati dengan antibiotik yang diberikan secara lisan atau melalui suntikan. Karena infeksi sering terjadi bersama - sama, orang yang terkena satu infeksi biasanya dirawat oleh kedua dokter mereka. Pasangan seksual baru-baru ini harus dirawat pada saat yang sama.
+
+2024-12-30 09:21:55 - Rank 3: 4666657 [] - Pengobatan khusus yang digunakan untuk mengobati infeksi mencakup antibiotik, antivirus, antifungal, antiprotozoal, dan antihelmintik. Penyakit menular mengakibatkan 9.2 juta kematian pada 2013 (sekitar 17% dari semua kematian). Gejala infeksinya bergantung pada jenis penyakit. Beberapa tanda infeksi pada umumnya mempengaruhi seluruh tubuh, seperti kelelahan, kehilangan selera makan, kehilangan berat badan, demam, keringat malam, menggigil, nyeri, dan nyeri.
+
+2024-12-30 09:21:55 - Rank 4: 6806370 [] - Pengobatan biasanya terdiri dari salah satu hal berikut, bergantung pada infeksinya: 1 Antibiotik. Antibiotik, yang sering kali hanya dalam satu dosis, dapat menyembuhkan banyak infeksi bakteri dan parasit seksual, termasuk gonore, sifilis, klamidia dan trichomoniasis. 2 obat antivirus.
+
+2024-12-30 09:21:55 - Rank 5: 1200685 [] - Pengobatan khusus yang digunakan untuk mengobati infeksi mencakup antibiotik, antivirus, antifungal, antiprotozoal, dan antihelmintik. Penyakit menular mengakibatkan 9.2 juta kematian pada 2013 (sekitar 17% dari semua kematian).
+
+2024-12-30 09:21:55 - Rank 6: 8030817 [] - Dokter Anda mungkin meresepkan antibiotik untuk mengobati infeksi yang disebabkan oleh bakteri. Infeksi bakteri yang umum mencakup infeksi telinga, tenggorokan, sistem kencing, dan kulit serta beberapa jenis keracunan makanan, seperti salmonella.
+
+2024-12-30 09:21:55 - Rank 7: 915915 [] - Pengobatan khusus yang digunakan untuk mengobati infeksi mencakup antibiotik, antivirus, antifungal, antiprotozoal, dan antihelmintik. Penyakit menular mengakibatkan 9.2 juta kematian pada 2013 (sekitar 17% dari semua kematian). Cabang obat yang berfokus pada infeksi disebut penyakit menular.
+
+2024-12-30 09:21:55 - Rank 8: 1372491 [] - Pengobatan khusus yang digunakan untuk mengobati infeksi mencakup antibiotik, antivirus, antifungal, antiprotozoal, dan antihelmintik. Penyakit menular mengakibatkan 9.2 juta kematian pada 2013 (sekitar 17% dari semua kematian). Cabang obat yang berfokus pada infeksi disebut sebagai Penyakit Menular.
+
+2024-12-30 09:21:55 - Rank 9: 931454 [] - Infeksi bakterial dapat diobati dengan antibiotik, yang digolongkan sebagai bakteriocidal jika mereka membunuh bakteria, atau bakteriastatic jika hanya mencegah pertumbuhan bakteri. Ada banyak jenis antibiotik dan setiap kelas menghambat proses yang berbeda dalam patogen dari yang terdapat dalam tubuh.
+
+2024-12-30 09:21:55 - Rank 10: 1409676 [] - 1 Pengobatan untuk infeksi bakteri, seperti: 2 jenis pneumonia tertentu. 3 Jenis infeksi saluran kencing (UTI) tertentu. 4 Rocky Mountain terkena demam. 5 Gonorrhea. Chlamydia 6 7 Acne pengobatan (lihat Minocycline untuk Acne). 8 Pengobatan infeksi anthrax.

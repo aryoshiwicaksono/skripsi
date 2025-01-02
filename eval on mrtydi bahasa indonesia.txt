@@ -1,0 +1,80 @@
+Time taken to retrieve 521.68 seconds
+2024-12-30 084406 - Retriever evaluation for k in [1, 3, 5, 10, 100, 1000]
+2024-12-30 084406 - For evaluation, we ignore identical query and document ids (default), please explicitly set ``ignore_identical_ids=False`` to ignore this.
+2024-12-30 084407 - 
+
+2024-12-30 084407 - NDCG@1 0.1226
+2024-12-30 084407 - NDCG@3 0.1708
+2024-12-30 084407 - NDCG@5 0.1842
+2024-12-30 084407 - NDCG@10 0.2014
+2024-12-30 084407 - NDCG@100 0.2340
+2024-12-30 084407 - NDCG@1000 0.2550
+2024-12-30 084407 - 
+
+2024-12-30 084407 - MAP@1 0.1226
+2024-12-30 084407 - MAP@3 0.1585
+2024-12-30 084407 - MAP@5 0.1658
+2024-12-30 084407 - MAP@10 0.1731
+2024-12-30 084407 - MAP@100 0.1789
+2024-12-30 084407 - MAP@1000 0.1796
+2024-12-30 084407 - 
+
+2024-12-30 084407 - Recall@1 0.1226
+2024-12-30 084407 - Recall@3 0.2067
+2024-12-30 084407 - Recall@5 0.2394
+2024-12-30 084407 - Recall@10 0.2917
+2024-12-30 084407 - Recall@100 0.4551
+2024-12-30 084407 - Recall@1000 0.6250
+2024-12-30 084407 - 
+
+2024-12-30 084407 - P@1 0.1226
+2024-12-30 084407 - P@3 0.0689
+2024-12-30 084407 - P@5 0.0479
+2024-12-30 084407 - P@10 0.0292
+2024-12-30 084407 - P@100 0.0046
+2024-12-30 084407 - P@1000 0.0006
+2024-12-30 084407 - 
+
+2024-12-30 084407 - MRR@1 0.1226
+2024-12-30 084407 - MRR@3 0.1585
+2024-12-30 084407 - MRR@5 0.1658
+2024-12-30 084407 - MRR@10 0.1731
+2024-12-30 084407 - MRR@100 0.1789
+2024-12-30 084407 - MRR@1000 0.1796
+2024-12-30 084408 - 
+
+2024-12-30 084408 - R_cap@1 0.1226
+2024-12-30 084408 - R_cap@3 0.2067
+2024-12-30 084408 - R_cap@5 0.2394
+2024-12-30 084408 - R_cap@10 0.2917
+2024-12-30 084408 - R_cap@100 0.4551
+2024-12-30 084408 - R_cap@1000 0.6250
+2024-12-30 084408 - 
+
+2024-12-30 084409 - Hole@1 0.8660
+2024-12-30 084409 - Hole@3 0.9229
+2024-12-30 084409 - Hole@5 0.9446
+2024-12-30 084409 - Hole@10 0.9639
+2024-12-30 084409 - Hole@100 0.9925
+2024-12-30 084409 - Hole@1000 0.9980
+2024-12-30 084409 - Query  Siapakah yang mengembankan Spotify 
+
+2024-12-30 084409 - Rank 1 2524466#20 [] - NSG Spotify
+
+2024-12-30 084409 - Rank 2 2692113#2 [] - Pada 2017, perusahaan streaming musik Swedia Spotify membeli 9% saham perusahaan sebagai bagian dari pertukaran saham
+
+2024-12-30 084409 - Rank 3 2050666#52 [] - Pada Desember 2013, Spotify membuat aplikasi mobile gratis untuk perangkat Android dan iOS dengan iklan diaktifkan, bukan hanya pelanggan premium.
+
+2024-12-30 084409 - Rank 4 2050666#73 [] - Per Desember 2014, dua jenis langganan Spotify adalah
+
+2024-12-30 084409 - Rank 5 2050666#11 [] - Pada tanggal 14 September 2011, Spotify meluncurkan layanan AS, setelah penundaan dan tahun negosiasi dengan empat perusahaan rekaman besar. Pada 30 November 2011, Spotify meluncurkan Spotify Apps dan App Finder dengan mitra peluncuran yang termasuk Rolling Stone, Kita Diburu , Top10, Songkick, The Guardian, Soundrop dan Last.fm.
+
+2024-12-30 084409 - Rank 6 2050666#50 [] - Pada 20 Juni 2012, Spotify streaming radio gratis di iPad dan iPhone di AS.
+
+2024-12-30 084409 - Rank 7 2050666#37 [] - Spotify mendorong orang untuk membayar untuk musik, dengan langganan sebagai sumber pendapatan utama. langganan menghilangkan iklan dan batas, dan meningkatkan bitrate 320 kbs untuk beberapa lagu. Biaya ini juga memungkinkan penggunaan tak terbatas mobile, serta offline dan akses online ke playlist.
+
+2024-12-30 084409 - Rank 8 2050666#29 [] - Spotify memungkinkan pengguna untuk mengintegrasikan akun mereka dengan akun Facebook dan Twitter yang ada. Setelah itu mereka dapat mengakses musik favorit teman-teman mereka pengikut dan playlist.
+
+2024-12-30 084409 - Rank 9 2050666#38 [] - Spotify menawarkan pengguna uji coba gratis fitur Premium selama 30 hari. Pengguna harus memasukkan informasi pembayaran dan harus secara eksplisit menghentikan langganan mereka sebelum berakhir masa percobaan untuk menghindari membayar untuk fitur premium.
+
+2024-12-30 084409 - Rank 10 2050666#58 [] - Pada tanggal 14 September 2011, Spotify diluncurkan di Amerika Serikat.
